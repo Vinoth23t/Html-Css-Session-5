@@ -1,0 +1,135 @@
+.body{
+    margin: 0;
+}
+.nav-container{
+  display: flex;
+  height:70px;
+  position:fixed;
+  width:100%;
+  background-color: white;
+  left:0;
+  border:1px solid grey;
+  top:0;
+}
+.header-img{
+    width:100%;
+    margin-top:5px;
+    margin-left:30px;
+}
+.nav-text{
+    width:100%;
+    display:flex;
+    margin-top: 15px;
+    margin-left:200px ;
+    position:absolute;
+    justify-content:left;
+   
+}
+.nav-text a:hover{
+   color: #4285F4;
+}
+
+.nav-content1{
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.nav-content2{
+    margin-left: 30px;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+.nav-content3{
+    margin-left: 30px;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+.nav-content4{
+    margin-left: 30px;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+.nav-content5{
+    margin-left: 30px;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+}
+.nav-btn{
+    width:100%;
+    margin-right:2%;
+    justify-content: right;
+    display:flex;
+    margin-top: 0px;
+    top:0;
+}
+.nav-btn1{
+    text-decoration: none;
+    color:rgb(24, 24, 24);
+    margin-right:100px;
+    font-size: 20px;
+    font-weight: 200;
+    margin-top: 20px;
+    margin-right:9%;
+    
+}
+.nav-btn2{
+    text-decoration: none;
+    color:white;
+    background-color:#4285F4;
+    padding: 20px 10px;
+    font-size: 20px;
+    font-weight: 200;
+    
+}
+.nav-btn2 a:hover{
+    background-color: #022f79;
+}
+.banner{
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+}
+.banner-txt .top{
+    width:100%;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 20%;
+    color: black;
+}
+.banner-txt .bottom{
+    width:100%;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-left: 20%;
+    color: black;
+}
+.banner-img{
+    width:688px;
+    height:607px;
+    margin-left: 100px;
+}
+.{
+    display:flex;
+    width:200px;
+    height: 50px;
+    background-color:white;
+    margin-left: 50%;
+
+}
